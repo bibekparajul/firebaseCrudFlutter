@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660130727393",
+    "project_id": "firetuto-cee1e",
+    "storage_bucket": "firetuto-cee1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660130727393:android:17c5f9817edfb7917c3ea0",
+        "android_client_info": {
+          "package_name": "com.fire.tuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660130727393-nn3g2jj5d5s8k4424h4eih4egrskqii3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpO31Q8CcIE_9hvscsh5kvtagv-oov_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660130727393-nn3g2jj5d5s8k4424h4eih4egrskqii3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
